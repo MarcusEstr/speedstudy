@@ -2,7 +2,7 @@
 
 ## 2018
 
-something about your goals here
+I do not have a degree in Computer Science. It's something I really regret. As such, I'm trying to boost my fundamental knowledge of the discipline via learning materials online, via books, etc. 
 
 ## Progress
 
@@ -17,7 +17,7 @@ Total Points earned:
 
 ## Computer Science Intensive
 
-- [ ] [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [x] [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [ ] [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [ ] [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
