@@ -6,8 +6,10 @@ I do not have a degree in Computer Science. It's something I really regret. As s
 
 ## Progress
 
-Current Course: Learn to Code HTML & CSS, Introduction to Computer Science    
+Current Course: Learn to Code HTML & CSS, Introduction to Computer Science
+
 Courses Completed: None yet! 
+
 Total Points Earned: 200
 
 | Date Finished | Activity                  | Points | Links  |           
@@ -18,7 +20,7 @@ Total Points Earned: 200
 
 ## Computer Science Intensive
 
-- [x] [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [ ] [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [ ] [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [ ] [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
