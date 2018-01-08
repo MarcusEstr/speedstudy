@@ -8,7 +8,6 @@ I do not have a degree in Computer Science. It's something I really regret. As s
 
 Current Course: Learn to Code HTML & CSS, Introduction to Computer Science    
 Courses Completed: 0 
-
 Total Points earned: 200
 
 | Date Finished | Activity                  | Points | Links  |           
