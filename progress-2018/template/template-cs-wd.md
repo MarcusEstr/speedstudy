@@ -6,14 +6,14 @@ I do not have a degree in Computer Science. It's something I really regret. As s
 
 ## Progress
 
-Current Course: Introduction to Computer Science    
-Courses Completed: 1  
-Total Points earned: 300
+Current Course: Learn to Code HTML & CSS, Introduction to Computer Science    
+Courses Completed: 0 
+Total Points earned: 200
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
 | 01/03/17 | Read YDKJS Up and Going | 200 |  |
-| 01/06/17 | Learn to Code HTML & CSS | 100 | |
+| | | | |
 
 
 ## Computer Science Intensive
